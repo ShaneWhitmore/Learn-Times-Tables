@@ -8,40 +8,6 @@
  <p>
   When a student takes the exam, their results are stored in a file with their name on it. The Teachers mennu differs from the student menu as the teacher has access to every students exam results.
  </p>
- <br>
 
-  <img src="" alt="Image" width="500" height="350"/>
-
-
-  <br>
-  <p>
-
-  </p>
-  <br>
-
-
-
-
-  <img src="" alt="Image" width="500" height="350"/>
-
-
-
-<br>
-<p>
-
-</p>
-<br>
-
-
-
-
-  <img src="" alt="Image" width="500" height="350"/>
-
-
-
-<br>
-<p>
-
-</p>
 
 </div>
